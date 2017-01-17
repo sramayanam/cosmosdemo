@@ -1,5 +1,5 @@
-# Azure IoT Hub Device Emulator
-Original source comes from Paolo Salvatori and is published @ https://code.msdn.microsoft.com/How-to-read-events-from-an-1641eb1b
+[]# Azure IoT Hub Device Emulator
+Original source comes from [Paolo Salvatori](https://social.msdn.microsoft.com/profile/paolo%20salvatori/) and is published @ [MSDN]( https://code.msdn.microsoft.com/How-to-read-events-from-an-1641eb1b)
 The tool is used to simulate a configuarable amout of devices sending messages to Azure IoT Hub.
 
 Made two changes:
